@@ -4,3 +4,5 @@ inputs/
 webapp/models/
 webapp/parameters/
 notebooks/.ipynb_checkpoints/
+telegram-api/store.csv
+telegram-api/test.csv
